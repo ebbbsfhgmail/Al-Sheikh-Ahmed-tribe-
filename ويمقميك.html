@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تاريخ وحضارة آل الشيخ أحمد</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f1ea;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4169E1; /* لون برتقالي */
+            color: #fff;
+            padding: 5px;
+            text-align: center;
+        }
+        nav {
+            background-color: #4CAF50; /* لون أخضر */
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .container {
+            padding: 20px;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        .section img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px auto;
+        }
+        footer {
+            background-color: #FF8C42; /* لون برتقالي */
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            width: 100%;
+        }
+        .contact-form {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .contact-form input, .contact-form textarea {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        .contact-form button {
+            background-color: #4CAF50; /* لون أخضر */
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        h1, h2 {
+            font-family: 'Georgia', serif; /* خط مزخرف */
+            font-weight: bold; /* خط عريض */
+        }
+        .tribute {
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 40px;
+            text-align: center;
+            font-style: italic;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>تاريخ وحضارة آل الشيخ أحمد</h1>
+        <p>جذور ضاربة في التاريخ وفروع ممتدة في الحاضر</p>
+    </header>
+
+    <nav>
+        <a href="#history">التاريخ</a>
+        <a href="#figures">شخصيات بارزة</a>
+        <a href="#contact">اتصل بنا</a>
+    </nav>
+
+    <div class="container">
+        <section id="history" class="section">
+            <h2>جذور القبيلة</h2>
+            <p>تفتخر قبيلة آل الشيخ أحمد بجذورها العريقة التي تعود إلى عهد الرسول صلى الله عليه وسلم، حيث حمل أجدادهم راية الإيمان والوفاء، وساهموا في بناء الحضارة الإسلامية.</p>
+            <img src="https://i.postimg.cc/jd9j9wyc/1742602002309.jpg" alt="صورة القبيلة">
+        </section>
+
+        <section id="figures" class="section">
+            <h2>شخصيات بارزة</h2>
+            <p>تعرف على أبرز شخصيات قبيلة آل الشيخ أحمد التي ساهمت في بناء تاريخها العريق.</p>
+            <img src="https://i.postimg.cc/9MpjrJ4L/image.jpg" alt="صورة المطور إبراهيم آل الشيخ أحمد">
+            <p>تم تطوير هذا الموقع بواسطة المطور المتميز <strong>إبراهيم آل الشيخ أحمد</strong>.</p>
+        </section>
+
+        <section id="contact" class="section">
+            <h2>اتصل بنا</h2>
+            <div class="contact-form">
+                <form action="#" method="post">
+                    <input type="text" name="name" placeholder="اسمك" required>
+                    <input type="email" name="email" placeholder="بريدك الإلكتروني" required>
+                    <textarea name="message" rows="5" placeholder="رسالتك" required></textarea>
+                    <button type="submit">إرسال</button>
+                </form>
+            </div>
+            <p>يمكنك أيضًا الوصول إلى لوحة التحكم الخاصة بنا على <a href="https:-/passwords" target="_blank">Firebase</a>.</p>
+        </section>
+
+        <div class="tribute">
+            <h2> قبيلة آل الشيخ أحمد</h2>
+            <p>
+                قبيلة آل الشيخ أحمد، يا من تحملون في قلوبكم عراقة التاريخ وأصالة الماضي، أنتم رمز للكرم والشجاعة والإيمان. جذوركم الضاربة في أعماق الزمان تشهد على عظمتكم، وفروعكم الممتدة في الحاضر تروي قصص البطولة والإنجازات.  
+                لقد كنتم دائمًا سندًا للإسلام وحماةً للقيم، وسيظل اسمكم مرفوعًا كشاهد على عظمة الأجداد والأحفاد.  
+                نحن نفخر بكم، ونشهد بأنكم من خير القبائل وأكرمها، حفظكم الله وأبقاكم ذخرًا للأمة.  
+            </p>
+        </div>
+    </div>
+
+    <footer>
+        <p>تم التطوير بواسطة إبراهيم آل الشيخ أحمد © 2025</p>
+    </footer>
+
+</body>
+</html>
